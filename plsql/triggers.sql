@@ -1,4 +1,4 @@
--- to update/delete/insert rows in a multi table view >> INSTEAD OF UPDATE/DELETE/INSERT TRIGGER
+---- to update/delete/insert rows in a multi table view >> INSTEAD OF UPDATE/DELETE/INSERT TRIGGER
 
 -- TRIGGER
 SET SERVEROUTPUT ON;
